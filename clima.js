@@ -31,3 +31,8 @@ function buscarClima(cidade) {
     }, 1500);
   });
 }
+
+
+module.exports = {
+  buscarClima
+}
